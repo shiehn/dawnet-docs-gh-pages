@@ -1,9 +1,19 @@
 {
   "latest": {
-    "version": "0.5.3",
-    "date": "2025-08-13T03:54:58.320Z"
+    "version": "0.5.4",
+    "date": "2025-08-14T20:53:09.846Z"
   },
   "versions": [
+    {
+      "version": "0.5.4",
+      "date": "2025-08-14T20:53:09.849Z",
+      "downloads": {
+        "mac": {
+          "arm64": "https://storage.googleapis.com/docs-assets/signals-and-sorcery-0_5_4-arm64.dmg"
+        }
+      },
+      "changelog": "Version 0.5.4 release"
+    },
     {
       "version": "0.5.3",
       "date": "2025-08-13T03:54:58.321Z",
@@ -48,10 +58,10 @@
   "platforms": {
     "mac": {
       "arm64": {
-        "url": "https://storage.googleapis.com/docs-assets/signals-and-sorcery-0_5_3-arm64.dmg",
-        "version": "0.5.3",
+        "url": "https://storage.googleapis.com/docs-assets/signals-and-sorcery-0_5_4-arm64.dmg",
+        "version": "0.5.4",
         "size": "138.8 MB",
-        "date": "2025-08-13T03:54:58.321Z"
+        "date": "2025-08-14T20:53:09.849Z"
       }
     }
   }
